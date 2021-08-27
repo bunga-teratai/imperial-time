@@ -1,0 +1,717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"style",
+				"outline-style"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"d",
+				"ridge"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"s",
+				"inset"
+			],
+			[
+				"border-top",
+				"border-top-style"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"an",
+				"antrozemelin@gmail.com"
+			],
+			[
+				"fib",
+				"fibonacci_even"
+			],
+			[
+				"su",
+				"summary"
+			],
+			[
+				"so",
+				"sources"
+			],
+			[
+				"des",
+				"destinations"
+			],
+			[
+				"У",
+				"Уголовный"
+			],
+			[
+				"Ис",
+				"История"
+			],
+			[
+				"Истори",
+				"Историческое"
+			],
+			[
+				"обра",
+				"образование"
+			],
+			[
+				"Гео",
+				"Географическое"
+			],
+			[
+				"Об",
+				"Общая"
+			],
+			[
+				"эк",
+				"Экология"
+			],
+			[
+				"бе",
+				"безопасность"
+			],
+			[
+				"гра",
+				"Гражданское"
+			],
+			[
+				"уго",
+				"Уголовное"
+			],
+			[
+				"оч",
+				"очно-заочная"
+			],
+			[
+				"пра",
+				"право"
+			],
+			[
+				"Ме",
+				"Международная"
+			],
+			[
+				"Те",
+				"Технологии"
+			],
+			[
+				"Эконо",
+				"Экономика"
+			],
+			[
+				"де",
+				"деятельность"
+			],
+			[
+				"ис",
+				"искусства"
+			],
+			[
+				"теа",
+				"Театральное"
+			],
+			[
+				"му",
+				"музыкально-инструментального"
+			],
+			[
+				"об",
+				"образование"
+			],
+			[
+				"иску",
+				"искусства"
+			],
+			[
+				"музы",
+				"Музыкально-компьютерные"
+			],
+			[
+				"образо",
+				"образование"
+			],
+			[
+				"обр",
+				"образовательного"
+			],
+			[
+				"Пед",
+				"Педагогическая"
+			],
+			[
+				"образова",
+				"образование"
+			],
+			[
+				"Тех",
+				"Технологии"
+			],
+			[
+				"ку",
+				"культуры"
+			],
+			[
+				"Пси",
+				"Психологическое"
+			],
+			[
+				"da",
+				"data_json"
+			],
+			[
+				"ra",
+				"raw_yaml"
+			],
+			[
+				"ра",
+				"развития"
+			],
+			[
+				"нарушени",
+				"нарушением"
+			],
+			[
+				"на",
+				"нарушениями"
+			],
+			[
+				"До",
+				"Дошкольное"
+			],
+			[
+				"ка",
+				"качества"
+			],
+			[
+				"пе",
+				"педагогика"
+			],
+			[
+				"Эк",
+				"Экономическое"
+			],
+			[
+				"Технологи",
+				"Технологическое"
+			],
+			[
+				"я",
+				"языка"
+			],
+			[
+				"о",
+				"образование"
+			],
+			[
+				"Образова",
+				"Образование"
+			],
+			[
+				"соц",
+				"Социальная"
+			],
+			[
+				"Фи",
+				"Филологическое"
+			],
+			[
+				"Образовате",
+				"образовательных"
+			],
+			[
+				"орн",
+				"организация"
+			],
+			[
+				"Пра",
+				"Правовое"
+			],
+			[
+				"и",
+				"иностранного"
+			],
+			[
+				"до",
+				"дошкольного"
+			],
+			[
+				"меж",
+				"межкультурная"
+			],
+			[
+				"обу",
+				"обучение"
+			],
+			[
+				"Психо",
+				"Психология"
+			],
+			[
+				"образ",
+				"образования"
+			],
+			[
+				"педа",
+				"Педагогика"
+			],
+			[
+				"у",
+				"управление"
+			],
+			[
+				"Соци",
+				"Социальная"
+			],
+			[
+				"физи",
+				"Физическое"
+			],
+			[
+				"фи",
+				"Физкультурное"
+			],
+			[
+				"Физ",
+				"Физкультурное"
+			],
+			[
+				"Театра",
+				"театрального"
+			],
+			[
+				"Гос",
+				"государственное"
+			],
+			[
+				"пси",
+				"Психология"
+			],
+			[
+				"Техно",
+				"Технологии"
+			],
+			[
+				"Психоло",
+				"Морально-психологическое"
+			],
+			[
+				"Псих",
+				"Психология"
+			],
+			[
+				"Хими",
+				"Химическое"
+			],
+			[
+				"DES",
+				"DEST_DIR"
+			],
+			[
+				"п",
+				"право"
+			],
+			[
+				"Исто",
+				"Историческое"
+			],
+			[
+				"DE",
+				"DEST_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa re",
+				"Package Control: Remove Package"
+			],
+			[
+				"lu",
+				"Set Syntax: Lua"
+			],
+			[
+				"has",
+				"Set Syntax: Haskell"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"in",
+				"Indentation: Detect"
+			],
+			[
+				"preview",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"csv",
+				"Rainbow CSV: Align CSV columns with spaces"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"hask",
+				"Set Syntax: Haskell"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"bas",
+				"Set Syntax: Bash"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"y",
+				"Set Syntax: YAML"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ti",
+				"Convert Case: Title Case"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"uni",
+				"Unicode Character Insert: Show Panel"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C++"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/cafune/Documents/Обучение front-end/imperial-time"
+	],
+	"file_history":
+	[
+		"/home/cafune/.config/i3/config",
+		"/home/cafune/Documents/Обучение front-end/mysite/index.html",
+		"/home/cafune/Documents/Обучение front-end/mysite/style.css",
+		"/home/cafune/My Spiral Knights mods/etrian-odyssey-v-ost-replacement/file-list.csv",
+		"/home/cafune/tamagotchi-on-stuff/wallpapers/instructions.md",
+		"/home/cafune/.config/conky/conky.conf",
+		"/home/cafune/.config/xmobar/xmobar.config",
+		"/home/cafune/.local/share/applications/Meets Studio (Wine).desktop",
+		"/home/cafune/.local/share/applications/MyMeets (Wine).desktop",
+		"/home/cafune/.local/share/applications/Monika After Story.desktop",
+		"/home/cafune/.local/share/applications/wine-extension-gif.desktop",
+		"/home/cafune/Documents/test_task_solution.md",
+		"/home/cafune/Python_scripts/primes.py",
+		"/home/cafune/prod.dtsConfig",
+		"/home/cafune/pant.py",
+		"/home/cafune/.xprofile",
+		"/home/cafune/.config/powerline/config.json",
+		"/home/cafune/.config/powerline/themes/shell/default.json",
+		"/home/cafune/.config/powerline/colorschemes/shell/default.json",
+		"/home/cafune/.config/powerline/colorschemes/shell/pywal.json",
+		"/home/cafune/.cache/wal/colors",
+		"/home/cafune/.config/powerline/colorschemes/solarized.json",
+		"/home/cafune/.config/powerline/colors.json",
+		"/home/cafune/.local/bin/powerline-wallify.py",
+		"/home/cafune/.config/powerline/colorschemes/shell/solarized.json",
+		"/home/cafune/.config/powerline/colorschemes/shell/__main__.json",
+		"/home/cafune/.config/powerline/colorschemes/shell/wal.json",
+		"/home/cafune/.config/powerline/colorschemes/bash/wal.json",
+		"/home/cafune/.config/powerline/themes/bash/default.json",
+		"/home/cafune/.cache/wal/colors.Xresources",
+		"/home/cafune/colors.json",
+		"/home/cafune/.local/lib/python3.9/site-packages/colortrans.py",
+		"/home/cafune/.cache/wal/colors.json",
+		"/home/cafune/.config/powerline/colors",
+		"/home/cafune/.cache/wal/schemes/_home_cafune_Pictures_wallpapers_scr00020_jpg_dark_None_None_1.1.0.json",
+		"/home/cafune/.config/powerline/colorschemes/bash/default.json",
+		"/home/cafune/Python_scripts/fibonacci_even.py",
+		"/home/cafune/.xinitrc",
+		"/home/cafune/.xsession-off",
+		"/home/cafune/.local/bin/start_jack",
+		"/home/cafune/.local/bin/music",
+		"/home/cafune/Monika After Story/apikey.txt",
+		"/home/cafune/Работа с приказами/Приказы 0104/script.py",
+		"/home/cafune/Работа с приказами/Приказы 0104/2021.yaml",
+		"/home/cafune/.config/i3/i3status.conf",
+		"/home/cafune/.config/redshift/config",
+		"/home/cafune/.Xresources.d/urxvt",
+		"/tmp/xa-P6K860/README.txt",
+		"/home/cafune/Работа с приказами/Приказы 0104/test_script.py",
+		"/home/cafune/Работа с приказами/Приказы 0104/2021.json",
+		"/home/cafune/Работа с приказами/Приказы 0104/2020.json",
+		"/usr/lib/python3.9/shutil.py",
+		"/home/cafune/.config/i3/i3status-prepend.sh",
+		"/home/cafune/.fonts.conf",
+		"/home/cafune/testdir/test.py",
+		"/home/cafune/Работа с приказами/Приказы 0104/script.sh",
+		"/home/cafune/Работа с приказами/Приказы 0104/2020.yaml",
+		"/home/cafune/test_file.yaml",
+		"/home/cafune/.config/gtk-3.0/settings.ini",
+		"/home/cafune/.gtkrc-2.0",
+		"/home/cafune/.config/rofi/themes/custom-rofi-theme.rasi",
+		"/home/cafune/.moc/themes/wal",
+		"/home/cafune/.config/sublime-text/Packages/UnicodeCharacterInsert/Default.sublime-keymap",
+		"/home/cafune/.Xresources",
+		"/home/cafune/.Xresources.d/gruvbox-dark.xresources",
+		"/home/cafune/.bashrc",
+		"/home/cafune/.moc/config",
+		"/home/cafune/.config/rofi/config.rasi",
+		"/home/cafune/After",
+		"/home/cafune/.local/share/applications/Monika",
+		"/home/cafune/Story.desktop",
+		"/home/cafune/custom-rofi-theme.rasi",
+		"/home/cafune/.config/dunst/dunstrc",
+		"/home/cafune/.fehbg",
+		"/home/cafune/.xsession",
+		"/home/cafune/.Xresources.d/gruvbox-urxvt256",
+		"/etc/pacman.conf",
+		"/home/cafune/gruvbox-urxvt256.xresources",
+		"/home/cafune/urxvt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "imperial-time.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
