@@ -44,3 +44,9 @@ function imperial_time_new_style(current_date) {
 	" " + designator + ".M" + millenium;
 	return imperial_time
 }
+
+function main() {
+	let current_date = new Date();
+	time_old_style.innerText = imperial_time_old_style(current_date);
+	time_new_style.innerText = imperial_time_new_style(current_date);
+}
