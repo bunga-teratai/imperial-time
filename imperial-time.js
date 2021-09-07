@@ -1,7 +1,7 @@
 const MAKR = 0.11407955;
 const GREAT_RIFT_DATE = new Date(40999, 12);
 
-let time_og = document.querySelector(".imperial-time .original");
+let time_old = document.querySelector(".imperial-time .original");
 
 function imperial_time(type) {
 	let current_time = new Date();
