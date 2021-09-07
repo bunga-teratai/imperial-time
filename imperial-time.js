@@ -2,6 +2,8 @@ const MAKR = 0.11407955;
 const GREAT_RIFT_DATE = new Date(40999, 12);
 const CHECK_NUMBER = 0;
 const DESIGNATOR = "TCM" // Terra Cicatrix Maledictum
+const MONTH_LENGTHS = [31, 28, 31, 30, 31, 30,
+                       31, 31, 30, 31, 30, 31]
 
 let time_old_style = document.querySelector(".imperial-time.original");
 let time_new_style = document.querySelector(".imperial-time.indomitus");
