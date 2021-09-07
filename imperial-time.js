@@ -45,7 +45,7 @@ function imperial_time_old_style(current_date) {
 
 	let millenium_year = year.toString().substr(-3);
 
-	let millenium = year.toString().substr(0, -4);
+	let millenium = year.toString().slice(0, -3);
 
 	let imp_time = 
 	`${CHECK_NUMBER}.${year_fraction}.${millenium_year}.M${millenium}`;
