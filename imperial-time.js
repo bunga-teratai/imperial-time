@@ -3,7 +3,7 @@ const GREAT_RIFT_DATE = new Date(40999, 12);
 
 let time_old = document.querySelector(".imperial-time .original");
 
-function imperial_time(type) {
+function imperial_time_old_style(type) {
 	let current_time = new Date();
 	let year = current_time.getFullYear();
 	let day = ordinal_day(current_time);
