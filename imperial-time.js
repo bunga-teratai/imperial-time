@@ -7,7 +7,17 @@ let time_old_style = document.querySelector(".imperial-time.original");
 let time_new_style = document.querySelector(".imperial-time.indomitus");
 
 function ordinal_day(date) {
-	()=>{}
+	let year = date.getFullYear;
+	let day = date.getDay;
+	let month = date.getMonth;
+
+	let ord_date = 0;
+	for (let i = 0; i < month; i++) {
+		ord_date += MONTH_LENGTHS[i]
+	}
+	ord_date += day;
+	if (isLeapYear(year)){ord_date += 1}
+	return ord_date
 }
 
 function isLeapYear(year) {
