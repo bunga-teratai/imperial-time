@@ -19,3 +19,7 @@ function imperial_time(type) {
 	let imp_time = `${check_number}.${year_fraction}.${millenium_year}.M${millenium}`;
 	return imp_time
 }
+
+function imperial_time_new_style() {
+	return imperial_time
+}
