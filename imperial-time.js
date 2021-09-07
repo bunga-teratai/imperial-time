@@ -54,9 +54,8 @@ function imperial_time_old_style(current_date) {
 
 function imperial_time_new_style(current_date) {
 	let year = current_date.getFullYear();
-	let year_delta = GREAT_RIFT_DATE.getFullYear() - year;
-	let day_delta =
-	ordinal_day(GREAT_RIFT_DATE.getDay()) - ordinal_day(current_date.getDay());
+	let year_delta = year - GREAT_RIFT_DATE.getFullYear();
+	let day_delta = ordinal_day(GREAT_RIFT_DATE) - ordinal_day(current_date);
 
 	let millenium = (year + 1000).toString().slice(0, -3);
 
