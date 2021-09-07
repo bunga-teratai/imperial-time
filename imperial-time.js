@@ -10,6 +10,18 @@ function ordinal_day(date) {
 	()=>{}
 }
 
+function isLeapYear(year) {
+	if (year % 4 === 0 &&
+		!(year % 100 === 0) &&
+		year % 400 === 0) {
+
+		return true
+	}
+	else {
+		return false
+	}
+}
+
 function imperial_time_old_style(current_date) {
 	let year = current_date.getFullYear();
 	let day = ordinal_day(current_date);
