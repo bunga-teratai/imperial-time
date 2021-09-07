@@ -57,13 +57,11 @@ function imperial_time_new_style(current_date) {
 	let year_delta = year - GREAT_RIFT_DATE.getFullYear();
 	let day_delta = ordinal_day(GREAT_RIFT_DATE) - ordinal_day(current_date);
 
-	let millenium = (year + 1000).toString().slice(0, -3);
-
 	let sign = (year_delta < 0) ? "-":"+";
 
 	let imperial_time = Math.abs(year_delta).toString() +
 	"." + Math.abs(day_delta).toString() + sign +
-	" " + DESIGNATOR + ".M" + millenium;
+	" " + DESIGNATOR + ".M41";
 	return imperial_time
 }
 
