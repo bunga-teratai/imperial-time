@@ -1,6 +1,7 @@
 const MAKR = 0.11407955;
 const GREAT_RIFT_DATE = new Date(40999, 12);
 const CHECK_NUMBER = 0;
+const DESIGNATOR = "TCM" // Terra Cicatrix Maledictum
 
 let time_old_style = document.querySelector(".imperial-time.original");
 let time_new_style = document.querySelector(".imperial-time.indomitus");
@@ -42,7 +43,7 @@ function imperial_time_new_style(current_date) {
 
 	let imperial_time = Math.abs(year_delta).toString() +
 	"." + Math.abs(day_delta).toString() + sign +
-	" " + designator + ".M" + millenium;
+	" " + DESIGNATOR + ".M" + millenium;
 	return imperial_time
 }
 
