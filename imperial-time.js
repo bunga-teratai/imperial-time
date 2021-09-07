@@ -50,3 +50,5 @@ function main() {
 	time_old_style.innerText = imperial_time_old_style(current_date);
 	time_new_style.innerText = imperial_time_new_style(current_date);
 }
+
+// var interval = setInterval(main(), 1000)
