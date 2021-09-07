@@ -2,7 +2,8 @@ const MAKR = 0.11407955;
 const GREAT_RIFT_DATE = new Date(40999, 12);
 const CHECK_NUMBER = 0;
 
-let time_old = document.querySelector(".imperial-time .original");
+let time_old_style = document.querySelector(".imperial-time.original");
+let time_new_style = document.querySelector(".imperial-time.indomitus");
 
 function ordinal_day(date) {
 	()=>{}
