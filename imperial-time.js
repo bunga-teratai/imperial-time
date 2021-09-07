@@ -8,11 +8,10 @@ function ordinal_day(date) {
 	()=>{}
 }
 
-function imperial_time_old_style() {
-	let current_time = new Date();
-	let year = current_time.getFullYear();
-	let day = ordinal_day(current_time);
-	let hour = current_time.getHours();
+function imperial_time_old_style(current_date) {
+	let year = current_date.getFullYear();
+	let day = ordinal_day(current_date);
+	let hour = current_date.getHours();
 
 	let determined_hour = day * 24 + hour;
 	let imperial_fraction = determined_hour * MAKR;
