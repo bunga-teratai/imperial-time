@@ -1,3 +1,5 @@
+const MAKR = 0.11407955;
+
 let time_og = document.querySelector(".imperial-time .original");
 
 function imperial_time(type) {
