@@ -36,13 +36,7 @@ function imperial_time_new_style(current_date) {
 
 	let millenium = year.toString().substr(0, -4);
 
-	let sign;
-	if (year_delta < 0) {
-		sign = "-";
-	}
-	else {
-		sign = "+";
-	}
+	let sign = (year_delta < 0) ? "-":"+";
 
 	let imperial_time = Math.abs(year_delta).toString() +
 	"." + Math.abs(day_delta).toString() + sign +
