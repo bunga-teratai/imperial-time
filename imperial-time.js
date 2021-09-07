@@ -1,4 +1,5 @@
 const MAKR = 0.11407955;
+const GREAT_RIFT_DATE = new Date(40999, 12);
 
 let time_og = document.querySelector(".imperial-time .original");
 
