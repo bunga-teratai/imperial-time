@@ -45,7 +45,7 @@ function imperial_time_old_style(current_date) {
 
 	let millenium_year = year.toString().substr(-3);
 
-	let millenium = year.toString().slice(0, -3);
+	let millenium = (year + 1000).toString().slice(0, -3);
 
 	let imp_time = 
 	`${CHECK_NUMBER}.${year_fraction}.${millenium_year}.M${millenium}`;
@@ -58,7 +58,7 @@ function imperial_time_new_style(current_date) {
 	let day_delta =
 	ordinal_day(GREAT_RIFT_DATE.getDay()) - ordinal_day(current_date.getDay());
 
-	let millenium = year.toString().substr(0, -4);
+	let millenium = (year + 1000).toString().slice(0, -3);
 
 	let sign = (year_delta < 0) ? "-":"+";
 
@@ -74,4 +74,4 @@ function main() {
 	time_new_style.innerText = imperial_time_new_style(current_date);
 }
 
-// var interval = setInterval(main(), 1000)
+var interval = setInterval(main(), 1000)
