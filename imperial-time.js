@@ -21,6 +21,21 @@ function imperial_time_old_style() {
 	return imp_time
 }
 
-function imperial_time_new_style() {
+function imperial_time_new_style(current_date) {
+	let year_delta = GREAT_RIFT_DATE.getFullYear() - current_date.getFullYear();
+	let day_delta =
+	ordinal_day(GREAT_RIFT_DATE.getDay()) - ordinal_day(current_date.getDay());
+
+	let sign;
+	if (year_delta < 0) {
+		sign = "-";
+	}
+	else {
+		sign = "+";
+	}
+
+	let imperial_time = Math.abs(year_delta).toString() +
+	"." + Math.abs(day_delta).toString() + sign +
+	" " + designator + ".M" + millenium;
 	return imperial_time
 }
