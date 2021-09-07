@@ -10,7 +10,7 @@ let time_new_style = document.querySelector(".imperial-time.indomitus");
 
 function ordinal_day(date) {
 	let year = date.getFullYear();
-	let day = date.getDay();
+	let day = date.getDate();
 	let month = date.getMonth();
 
 	let ord_date = 0;
