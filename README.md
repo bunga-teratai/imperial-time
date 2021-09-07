@@ -1,5 +1,7 @@
 # imperial-time
 
+https://cafuneandchill.github.io/imperial-time/
+
 This is a personal project 
 that I'm making to teach 
 myself HTML, CSS and JS. 
