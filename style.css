@@ -1,7 +1,13 @@
+@font-face {
+	font-family: Iosevka Fixed Slab;
+	src: url(fonts/iosevka-fixed-slab/iosevka-fixed-slab-regular.ttf);
+}
+
 .aquila {
 	width: 200px;
 }
 
 .main-container {
 	text-align: center;
+	font-family: Iosevka Fixed Slab, monospace;
 }
