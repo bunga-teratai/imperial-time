@@ -13,6 +13,12 @@ body {
 	color: white;
 }
 
+.date-type {
+	font-family: serif;
+	font-variant: small-caps;
+	font-size: xx-large;
+}
+
 .aquila {
 	width: 200px;
 }
