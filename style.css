@@ -3,6 +3,16 @@
 	src: url(fonts/iosevka-fixed-slab/iosevka-fixed-slab-regular.ttf);
 }
 
+header {
+	background-color: darkolivegreen;
+
+}
+
+body {
+	background-color: olivedrab;
+	color: white;
+}
+
 .aquila {
 	width: 200px;
 }
